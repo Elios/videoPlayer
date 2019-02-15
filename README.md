@@ -2,7 +2,7 @@
 # videoPlayer
 videoPlayer with danmuku and others
 =======
-# projectvue
+# videoPlayer
 
 > vue project
 
