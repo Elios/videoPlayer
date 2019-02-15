@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # videoPlayer
 videoPlayer with danmuku and others
 =======
