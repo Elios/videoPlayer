@@ -41,12 +41,12 @@
 
 <style scoped>
     .dan{
+        color:white;
         position: absolute;
         left: -100%;
         z-index: 4;
         cursor: pointer;
         font-size: 17px;
-        font-weight: bold;
         font-family: "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Segoe UI", "Microsoft YaHei", "微软雅黑", sans-serif;
         word-break: keep-all;/*保持中文在一行*/
         white-space: nowrap;/*防止空格和连字符换行*/
