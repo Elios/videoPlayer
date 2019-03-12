@@ -1,6 +1,6 @@
 # videoPlayer
 =======
-A video player with danmuku and others
+#A video player with danmuku and others
 
 > vue project
 
